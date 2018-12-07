@@ -1,0 +1,6 @@
+projectKey=GoWeb
+serverUrl=http://10.142.21.141:9001
+serverVersion=6.4.0.25310
+dashboardUrl=http://10.142.21.141:9001/dashboard/index/GoWeb
+ceTaskId=AWNEHG1Nv8fbOHucd2Rn
+ceTaskUrl=http://10.142.21.141:9001/api/ce/task?id=AWNEHG1Nv8fbOHucd2Rn
