@@ -1,3 +1,5 @@
-FROM registry.paas/library/busybox:latest
-ADD gotest /gotest
-CMD /gotest
+FROM centos:7
+ADD goweb /opt/goweb
+ADD goconf /opt/conf/goconf
+ENTRYPOINT ["/opt/goweb"]
+
